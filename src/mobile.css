@@ -1,0 +1,13 @@
+@media screen and (max-width: 844px) {
+    body {
+        display: flex;
+        flex-direction: row;
+    }
+    .perfil {
+        width: 300px;
+        height: 100px;
+    }
+    #teste {
+        width: 3px;
+    }
+}
